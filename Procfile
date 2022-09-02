@@ -1,1 +1,1 @@
-worker: python infidels.py
+worker: python infotele.py
